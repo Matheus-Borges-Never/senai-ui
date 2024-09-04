@@ -2030,10 +2030,10 @@ semver@^7.5.4, semver@^7.6.3:
   resolved "https://registry.yarnpkg.com/semver/-/semver-7.6.3.tgz#980f7b5550bc175fb4dc09403085627f9eb33143"
   integrity sha512-oVekP1cKtI+CTDvHWYFUcMtsK/00wmAEfyqKfNdARm8u1wNVhSgaX7A8d4UuIlUI5e84iEwOhs7ZPYRmzU9U6A==
 
-senai-design-system@^0.1.11:
-  version "0.1.11"
-  resolved "https://registry.yarnpkg.com/senai-design-system/-/senai-design-system-0.1.11.tgz#6b8834b675e99d1753202cf13c75f954374b1d65"
-  integrity sha512-0iZEulvgshG1EVgLsTcEJ/k5yU6QaYkjBnXNijJsmCqHJ4EDz3ZGvfTTM+auLG8La6KuXthkRECGo8QWI1+pXg==
+senai-design-system@^0.1.12:
+  version "0.1.12"
+  resolved "https://registry.yarnpkg.com/senai-design-system/-/senai-design-system-0.1.12.tgz#b052d066a4918eaea1a20056786589c2e20031f4"
+  integrity sha512-9KpQ3PteAutUHU1rjIgbkKPH4/KAfBacBRHU3FExvGN3ntfn5ajgpmgsKB2e1MEyBRzMcBpPDZ3zvOU1YMZ5Gw==
 
 set-function-length@^1.2.1:
   version "1.2.2"
