@@ -8,3 +8,4 @@ export * from './components/Padding';
 export * from './components/Width';
 export * from './components/Height';
 export * from './components/Header';
+export * from './components/Toggle';
