@@ -12,7 +12,7 @@
     "next": "14.2.7",
     "react": "^18",
     "react-dom": "^18",
-    "senai-design-system": "^0.1.46"
+    "senai-design-system": "^0.1.51"
   },
   "devDependencies": {
     "@types/node": "^20",
