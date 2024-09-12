@@ -2085,10 +2085,10 @@ semver@^7.5.4, semver@^7.6.3:
   resolved "https://registry.yarnpkg.com/semver/-/semver-7.6.3.tgz#980f7b5550bc175fb4dc09403085627f9eb33143"
   integrity sha512-oVekP1cKtI+CTDvHWYFUcMtsK/00wmAEfyqKfNdARm8u1wNVhSgaX7A8d4UuIlUI5e84iEwOhs7ZPYRmzU9U6A==
 
-senai-design-system@^0.1.28:
-  version "0.1.28"
-  resolved "https://registry.yarnpkg.com/senai-design-system/-/senai-design-system-0.1.28.tgz#0916d055d1216b990cdfea76d00d019d3a9c54cb"
-  integrity sha512-K/3tfKaLTTwm3hseztFtHVrdFmZ6ZSKH0sohxRKcLvBmjHhbRlbBfu7ycV/PtzVZ+QdUOSk8w6jgpJ53jHcSZQ==
+senai-design-system@^0.1.41:
+  version "0.1.41"
+  resolved "https://registry.yarnpkg.com/senai-design-system/-/senai-design-system-0.1.41.tgz#4f204861cf44eca471492732a6e8b36270012bf9"
+  integrity sha512-mIrb923b3e1EvZos5fDTw3yJush5NzXcO4NalUIxQbfJRQLntG1CYv+j1SUSqxx8qByB6Ds4LcUmlh35lgBb0w==
   dependencies:
     styled-components "^6.1.13"
 

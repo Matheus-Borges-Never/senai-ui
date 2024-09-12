@@ -36,7 +36,7 @@ export const TitleXL = styled.h4<TypographyProps>`
   font-family: 'NeoSansPro', sans-serif;
   font-size: 24px;
   line-height: 34px;
-  font-weight: ${({ weight }) => fontWeights[weight || 'regular']};
+  font-weight: ${({ weight }) => fontWeights[weight || 'regular']};230,,
 `;
 
 export const TitleLG = styled.h5<TypographyProps>`

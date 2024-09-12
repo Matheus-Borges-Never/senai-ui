@@ -1,0 +1,12 @@
+export const height0 = { height: 0 };
+export const height2 = { height: 2 };
+export const height4 = { height: 4 };
+export const height8 = { height: 8 };
+export const height12 = { height: 12 };
+export const height16 = { height: 16 };
+export const height24 = { height: 24 };
+export const height32 = { height: 32 };
+export const height48 = { height: 48 };
+export const height64 = { height: 64 };
+export const height80 = { height: 80 };
+export const height96 = { height: 96 };
